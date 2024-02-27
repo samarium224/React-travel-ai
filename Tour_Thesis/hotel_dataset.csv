@@ -1,0 +1,999 @@
+User ID,Hotel ID,Hotel_Name,Budget,With,Season
+7638,H7,Hotel Star Pacific,3,3,2
+5938,H15,Britannia Hotel,3,1,2
+3701,H8,Richmond Hotel & Suites,1,1,2
+9200,H14,Kaikobad Hotel International,1,1,1
+9553,H9,Noorjahan Grand Hotel,3,2,3
+6543,H2,Nazimgarh Resorts,3,3,1
+2744,H4,Nirvana Inn,2,2,1
+5548,H14,Kaikobad Hotel International,3,3,2
+4491,H12,Hotel Holy Gate,2,2,1
+2948,H5,La Vista Hotel,2,1,2
+4770,H2,Nazimgarh Resorts,2,1,2
+7081,H11,Dusai Resort & Spa,3,3,1
+4721,H10,Hilltown Hotel,2,2,1
+7178,H9,Noorjahan Grand Hotel,2,1,2
+9936,H14,Kaikobad Hotel International,1,2,3
+6321,H2,Nazimgarh Resorts,1,2,1
+8485,H1,Rose View Hotel,3,1,1
+3885,H5,La Vista Hotel,2,3,1
+4270,H3,Grand Sultan Tea Resort & Golf,2,2,2
+4681,H9,Noorjahan Grand Hotel,1,1,2
+5109,H15,Britannia Hotel,2,3,3
+7250,H1,Rose View Hotel,2,1,3
+9581,H9,Noorjahan Grand Hotel,3,3,2
+1976,H12,Hotel Holy Gate,1,3,1
+4309,H4,Nirvana Inn,3,2,2
+9904,H13,Hotel Supreme,3,3,2
+7356,H7,Hotel Star Pacific,3,3,1
+9368,H1,Rose View Hotel,1,2,2
+7319,H15,Britannia Hotel,3,2,1
+9361,H1,Rose View Hotel,3,3,2
+8534,H1,Rose View Hotel,1,1,1
+7816,H14,Kaikobad Hotel International,1,3,3
+8863,H7,Hotel Star Pacific,2,3,1
+6672,H11,Dusai Resort & Spa,1,3,2
+7440,H15,Britannia Hotel,3,1,3
+8653,H6,Platinum Grand Hotel,2,3,3
+3609,H4,Nirvana Inn,1,3,3
+1351,H12,Hotel Holy Gate,1,1,1
+6166,H1,Rose View Hotel,3,2,2
+3784,H6,Platinum Grand Hotel,3,1,2
+3141,H1,Rose View Hotel,3,2,1
+8177,H14,Kaikobad Hotel International,1,3,2
+7600,H1,Rose View Hotel,2,3,1
+8582,H1,Rose View Hotel,1,1,2
+1104,H5,La Vista Hotel,3,2,3
+5082,H5,La Vista Hotel,2,1,3
+3110,H13,Hotel Supreme,3,1,1
+9313,H2,Nazimgarh Resorts,2,2,1
+8692,H9,Noorjahan Grand Hotel,1,1,2
+8139,H2,Nazimgarh Resorts,3,1,2
+6560,H11,Dusai Resort & Spa,2,1,3
+9156,H12,Hotel Holy Gate,1,1,2
+4814,H1,Rose View Hotel,2,3,2
+6195,H7,Hotel Star Pacific,2,1,2
+7410,H9,Noorjahan Grand Hotel,2,3,2
+4103,H2,Nazimgarh Resorts,2,3,2
+7692,H14,Kaikobad Hotel International,2,3,2
+1752,H9,Noorjahan Grand Hotel,2,2,1
+2217,H3,Grand Sultan Tea Resort & Golf,2,2,2
+1877,H5,La Vista Hotel,1,3,1
+3048,H4,Nirvana Inn,3,3,3
+5932,H4,Nirvana Inn,3,1,3
+4357,H4,Nirvana Inn,2,2,1
+1020,H7,Hotel Star Pacific,2,2,2
+4205,H4,Nirvana Inn,2,2,1
+4887,H11,Dusai Resort & Spa,1,3,3
+4806,H9,Noorjahan Grand Hotel,1,2,1
+9172,H10,Hilltown Hotel,1,3,3
+6203,H13,Hotel Supreme,3,2,3
+6123,H11,Dusai Resort & Spa,1,2,1
+9449,H2,Nazimgarh Resorts,1,3,2
+2782,H9,Noorjahan Grand Hotel,2,1,3
+9249,H8,Richmond Hotel & Suites,1,3,2
+6597,H10,Hilltown Hotel,1,1,3
+9395,H11,Dusai Resort & Spa,3,2,1
+3757,H14,Kaikobad Hotel International,3,3,3
+8493,H8,Richmond Hotel & Suites,3,1,3
+7079,H11,Dusai Resort & Spa,2,1,2
+6635,H2,Nazimgarh Resorts,2,1,1
+9925,H12,Hotel Holy Gate,2,2,2
+1349,H2,Nazimgarh Resorts,2,2,1
+3605,H10,Hilltown Hotel,2,1,3
+3325,H9,Noorjahan Grand Hotel,1,3,2
+7053,H10,Hilltown Hotel,3,3,2
+7201,H14,Kaikobad Hotel International,3,2,1
+5923,H6,Platinum Grand Hotel,1,2,3
+8053,H6,Platinum Grand Hotel,3,3,1
+5092,H3,Grand Sultan Tea Resort & Golf,1,2,1
+4545,H3,Grand Sultan Tea Resort & Golf,1,3,1
+1789,H1,Rose View Hotel,1,2,2
+8510,H5,La Vista Hotel,1,3,3
+7443,H1,Rose View Hotel,2,3,3
+7054,H15,Britannia Hotel,2,1,3
+5325,H5,La Vista Hotel,3,3,3
+4965,H4,Nirvana Inn,3,2,3
+7991,H11,Dusai Resort & Spa,2,1,3
+9451,H11,Dusai Resort & Spa,2,1,1
+7364,H1,Rose View Hotel,2,3,3
+5660,H4,Nirvana Inn,1,3,1
+7665,H5,La Vista Hotel,1,1,3
+5799,H1,Rose View Hotel,2,3,3
+4010,H6,Platinum Grand Hotel,2,1,3
+4061,H6,Platinum Grand Hotel,1,2,2
+9393,H13,Hotel Supreme,1,2,2
+8026,H4,Nirvana Inn,1,1,1
+5897,H11,Dusai Resort & Spa,1,3,3
+9975,H1,Rose View Hotel,3,3,3
+5899,H8,Richmond Hotel & Suites,2,2,2
+9404,H5,La Vista Hotel,3,2,3
+5208,H12,Hotel Holy Gate,3,2,3
+7278,H12,Hotel Holy Gate,2,2,3
+4899,H10,Hilltown Hotel,1,1,2
+5128,H14,Kaikobad Hotel International,3,2,1
+6473,H5,La Vista Hotel,1,3,3
+8953,H12,Hotel Holy Gate,3,3,2
+7723,H3,Grand Sultan Tea Resort & Golf,2,3,1
+2114,H5,La Vista Hotel,2,3,2
+7547,H15,Britannia Hotel,3,1,1
+6561,H3,Grand Sultan Tea Resort & Golf,2,3,3
+7091,H9,Noorjahan Grand Hotel,2,1,3
+8893,H6,Platinum Grand Hotel,1,3,3
+6484,H13,Hotel Supreme,1,1,1
+4157,H2,Nazimgarh Resorts,1,1,1
+4123,H12,Hotel Holy Gate,3,2,3
+7464,H1,Rose View Hotel,1,2,2
+8442,H5,La Vista Hotel,3,1,1
+5984,H3,Grand Sultan Tea Resort & Golf,2,3,3
+2112,H5,La Vista Hotel,2,3,2
+3276,H13,Hotel Supreme,1,3,3
+7636,H14,Kaikobad Hotel International,2,1,3
+6899,H5,La Vista Hotel,3,1,2
+4075,H14,Kaikobad Hotel International,3,1,3
+3411,H15,Britannia Hotel,3,3,3
+7907,H7,Hotel Star Pacific,3,2,3
+6903,H2,Nazimgarh Resorts,3,2,3
+5155,H6,Platinum Grand Hotel,2,3,1
+8960,H14,Kaikobad Hotel International,3,1,3
+7318,H2,Nazimgarh Resorts,1,3,2
+2978,H7,Hotel Star Pacific,1,2,3
+9775,H10,Hilltown Hotel,3,2,3
+9312,H10,Hilltown Hotel,2,1,2
+8061,H13,Hotel Supreme,2,2,2
+1403,H5,La Vista Hotel,2,1,2
+5749,H14,Kaikobad Hotel International,3,3,1
+1164,H5,La Vista Hotel,1,2,1
+6618,H13,Hotel Supreme,3,1,1
+6677,H7,Hotel Star Pacific,2,3,3
+7065,H13,Hotel Supreme,1,2,3
+6002,H10,Hilltown Hotel,2,1,1
+2602,H9,Noorjahan Grand Hotel,3,2,2
+1256,H5,La Vista Hotel,3,1,2
+4017,H1,Rose View Hotel,2,3,3
+4752,H10,Hilltown Hotel,3,3,3
+7607,H15,Britannia Hotel,3,1,2
+8974,H12,Hotel Holy Gate,1,1,3
+8483,H15,Britannia Hotel,2,1,2
+2514,H13,Hotel Supreme,2,1,3
+4941,H1,Rose View Hotel,1,1,3
+5803,H2,Nazimgarh Resorts,2,3,2
+8919,H1,Rose View Hotel,2,2,1
+7898,H3,Grand Sultan Tea Resort & Golf,2,2,3
+3081,H13,Hotel Supreme,2,1,2
+3584,H15,Britannia Hotel,1,3,1
+4203,H15,Britannia Hotel,2,3,1
+8040,H13,Hotel Supreme,2,1,3
+4122,H14,Kaikobad Hotel International,2,2,2
+6726,H15,Britannia Hotel,3,1,3
+1365,H3,Grand Sultan Tea Resort & Golf,2,1,3
+2174,H8,Richmond Hotel & Suites,2,1,1
+9624,H10,Hilltown Hotel,3,3,1
+7590,H1,Rose View Hotel,1,3,2
+9066,H7,Hotel Star Pacific,3,3,1
+6314,H2,Nazimgarh Resorts,3,3,2
+8603,H15,Britannia Hotel,2,3,2
+4811,H4,Nirvana Inn,1,2,1
+8040,H11,Dusai Resort & Spa,2,1,3
+8784,H6,Platinum Grand Hotel,2,1,1
+5606,H5,La Vista Hotel,3,1,1
+7585,H15,Britannia Hotel,1,1,3
+7970,H1,Rose View Hotel,1,3,3
+2018,H2,Nazimgarh Resorts,3,3,3
+3693,H15,Britannia Hotel,1,1,3
+4789,H11,Dusai Resort & Spa,1,1,2
+9008,H6,Platinum Grand Hotel,1,3,1
+5936,H9,Noorjahan Grand Hotel,2,2,3
+9547,H5,La Vista Hotel,1,1,3
+4214,H7,Hotel Star Pacific,1,2,3
+8539,H14,Kaikobad Hotel International,3,2,1
+4972,H15,Britannia Hotel,1,3,2
+3395,H10,Hilltown Hotel,2,1,1
+3704,H9,Noorjahan Grand Hotel,3,1,3
+2814,H6,Platinum Grand Hotel,3,1,2
+5811,H3,Grand Sultan Tea Resort & Golf,2,1,3
+9527,H14,Kaikobad Hotel International,1,2,3
+6133,H5,La Vista Hotel,1,3,1
+1053,H5,La Vista Hotel,2,2,2
+6079,H12,Hotel Holy Gate,1,1,2
+7332,H4,Nirvana Inn,3,2,1
+9513,H4,Nirvana Inn,1,2,1
+6503,H1,Rose View Hotel,1,1,1
+1812,H6,Platinum Grand Hotel,2,2,2
+9678,H15,Britannia Hotel,3,1,3
+2201,H14,Kaikobad Hotel International,1,2,2
+1336,H3,Grand Sultan Tea Resort & Golf,1,2,3
+6817,H10,Hilltown Hotel,3,3,3
+6038,H6,Platinum Grand Hotel,2,1,3
+4522,H13,Hotel Supreme,2,1,2
+3753,H11,Dusai Resort & Spa,2,1,1
+7512,H15,Britannia Hotel,1,1,1
+1407,H6,Platinum Grand Hotel,3,3,2
+2446,H10,Hilltown Hotel,1,2,1
+9401,H15,Britannia Hotel,3,3,2
+4299,H6,Platinum Grand Hotel,1,2,3
+3287,H8,Richmond Hotel & Suites,2,2,1
+7538,H8,Richmond Hotel & Suites,2,1,2
+7658,H8,Richmond Hotel & Suites,2,3,3
+4868,H13,Hotel Supreme,3,3,1
+5291,H7,Hotel Star Pacific,1,1,1
+8299,H13,Hotel Supreme,3,2,2
+9088,H13,Hotel Supreme,3,2,1
+6571,H11,Dusai Resort & Spa,1,3,3
+8394,H14,Kaikobad Hotel International,3,2,3
+9622,H15,Britannia Hotel,2,1,1
+7614,H9,Noorjahan Grand Hotel,3,3,3
+7542,H8,Richmond Hotel & Suites,3,3,1
+4220,H15,Britannia Hotel,3,2,1
+1375,H8,Richmond Hotel & Suites,2,1,2
+4239,H9,Noorjahan Grand Hotel,3,1,1
+4565,H12,Hotel Holy Gate,1,2,2
+6521,H13,Hotel Supreme,3,2,1
+7415,H9,Noorjahan Grand Hotel,1,3,3
+4081,H13,Hotel Supreme,2,3,2
+7518,H12,Hotel Holy Gate,2,3,1
+6701,H8,Richmond Hotel & Suites,2,3,2
+4145,H6,Platinum Grand Hotel,2,2,3
+8023,H5,La Vista Hotel,1,1,1
+2322,H5,La Vista Hotel,1,2,3
+4372,H11,Dusai Resort & Spa,1,3,1
+8486,H2,Nazimgarh Resorts,3,2,2
+4774,H8,Richmond Hotel & Suites,2,2,2
+3169,H11,Dusai Resort & Spa,1,2,1
+9851,H14,Kaikobad Hotel International,1,2,2
+9039,H10,Hilltown Hotel,1,3,2
+6503,H2,Nazimgarh Resorts,1,3,2
+4725,H6,Platinum Grand Hotel,3,1,1
+5087,H5,La Vista Hotel,1,3,3
+3352,H1,Rose View Hotel,2,2,2
+1135,H13,Hotel Supreme,1,3,2
+2301,H11,Dusai Resort & Spa,2,1,1
+1868,H13,Hotel Supreme,2,2,1
+7513,H12,Hotel Holy Gate,1,3,2
+8865,H7,Hotel Star Pacific,1,3,1
+5339,H2,Nazimgarh Resorts,3,2,1
+6887,H8,Richmond Hotel & Suites,1,2,2
+6328,H12,Hotel Holy Gate,1,2,1
+9302,H11,Dusai Resort & Spa,2,1,3
+7335,H3,Grand Sultan Tea Resort & Golf,1,3,1
+5172,H7,Hotel Star Pacific,2,2,2
+9123,H7,Hotel Star Pacific,2,3,3
+6448,H14,Kaikobad Hotel International,3,1,1
+6047,H6,Platinum Grand Hotel,1,1,2
+4240,H6,Platinum Grand Hotel,2,1,1
+9047,H12,Hotel Holy Gate,3,1,3
+2309,H10,Hilltown Hotel,1,3,1
+3452,H15,Britannia Hotel,3,1,3
+5551,H13,Hotel Supreme,1,1,2
+7056,H5,La Vista Hotel,1,1,1
+9749,H6,Platinum Grand Hotel,3,3,1
+4807,H9,Noorjahan Grand Hotel,3,1,2
+1180,H7,Hotel Star Pacific,1,1,3
+2179,H13,Hotel Supreme,1,1,3
+8941,H4,Nirvana Inn,1,3,2
+1771,H6,Platinum Grand Hotel,3,2,3
+1773,H5,La Vista Hotel,3,3,2
+2408,H10,Hilltown Hotel,1,2,2
+4211,H14,Kaikobad Hotel International,2,3,3
+2436,H3,Grand Sultan Tea Resort & Golf,2,2,3
+4427,H1,Rose View Hotel,2,1,1
+5929,H3,Grand Sultan Tea Resort & Golf,1,2,2
+3060,H11,Dusai Resort & Spa,3,3,1
+5578,H9,Noorjahan Grand Hotel,3,2,2
+7057,H2,Nazimgarh Resorts,2,2,3
+9650,H9,Noorjahan Grand Hotel,1,3,1
+5442,H10,Hilltown Hotel,1,2,2
+2009,H4,Nirvana Inn,3,2,3
+5600,H8,Richmond Hotel & Suites,1,2,2
+4268,H15,Britannia Hotel,1,3,2
+2438,H6,Platinum Grand Hotel,1,1,1
+4395,H8,Richmond Hotel & Suites,1,3,2
+8909,H11,Dusai Resort & Spa,1,3,3
+5818,H6,Platinum Grand Hotel,1,1,3
+8614,H10,Hilltown Hotel,3,1,2
+8631,H13,Hotel Supreme,2,1,3
+8400,H12,Hotel Holy Gate,3,1,1
+9808,H11,Dusai Resort & Spa,1,2,2
+6037,H3,Grand Sultan Tea Resort & Golf,2,3,3
+6607,H12,Hotel Holy Gate,1,1,2
+6261,H15,Britannia Hotel,1,2,3
+8914,H6,Platinum Grand Hotel,3,2,3
+1956,H5,La Vista Hotel,1,2,1
+7245,H14,Kaikobad Hotel International,1,2,3
+8230,H14,Kaikobad Hotel International,3,2,3
+9130,H1,Rose View Hotel,1,1,2
+2813,H5,La Vista Hotel,3,2,3
+9723,H6,Platinum Grand Hotel,3,1,3
+6918,H15,Britannia Hotel,2,2,2
+4925,H6,Platinum Grand Hotel,2,2,1
+1422,H5,La Vista Hotel,1,3,1
+1317,H8,Richmond Hotel & Suites,2,2,2
+5887,H8,Richmond Hotel & Suites,3,1,3
+5388,H3,Grand Sultan Tea Resort & Golf,2,2,3
+4629,H14,Kaikobad Hotel International,1,2,2
+8693,H5,La Vista Hotel,3,1,1
+6399,H1,Rose View Hotel,1,1,2
+8450,H12,Hotel Holy Gate,1,2,1
+5423,H12,Hotel Holy Gate,2,2,2
+6641,H2,Nazimgarh Resorts,3,3,3
+3170,H10,Hilltown Hotel,2,2,3
+3033,H1,Rose View Hotel,2,3,2
+3891,H14,Kaikobad Hotel International,3,3,1
+7195,H9,Noorjahan Grand Hotel,2,1,1
+7393,H13,Hotel Supreme,3,1,3
+8618,H11,Dusai Resort & Spa,2,2,2
+1182,H14,Kaikobad Hotel International,3,1,1
+8380,H14,Kaikobad Hotel International,2,1,3
+4870,H15,Britannia Hotel,1,1,3
+3647,H13,Hotel Supreme,2,1,2
+7426,H7,Hotel Star Pacific,3,1,3
+2337,H2,Nazimgarh Resorts,1,2,3
+2629,H4,Nirvana Inn,3,1,3
+6020,H3,Grand Sultan Tea Resort & Golf,3,3,3
+9553,H11,Dusai Resort & Spa,3,2,3
+9391,H12,Hotel Holy Gate,1,2,2
+4684,H4,Nirvana Inn,3,2,2
+4820,H1,Rose View Hotel,2,1,3
+5113,H5,La Vista Hotel,3,3,2
+8291,H13,Hotel Supreme,2,2,2
+6213,H11,Dusai Resort & Spa,1,2,3
+3095,H11,Dusai Resort & Spa,2,1,3
+5160,H12,Hotel Holy Gate,1,2,3
+2664,H1,Rose View Hotel,1,1,2
+1447,H14,Kaikobad Hotel International,3,3,2
+3263,H12,Hotel Holy Gate,1,3,2
+2521,H6,Platinum Grand Hotel,2,1,3
+5396,H13,Hotel Supreme,3,1,3
+6212,H2,Nazimgarh Resorts,3,2,2
+9513,H4,Nirvana Inn,3,2,1
+8057,H6,Platinum Grand Hotel,1,3,3
+6960,H10,Hilltown Hotel,2,1,2
+2956,H4,Nirvana Inn,3,1,3
+1707,H4,Nirvana Inn,2,1,3
+5960,H15,Britannia Hotel,3,1,1
+3282,H15,Britannia Hotel,3,3,2
+8424,H14,Kaikobad Hotel International,2,3,3
+7762,H5,La Vista Hotel,2,1,3
+9755,H7,Hotel Star Pacific,1,2,1
+9595,H11,Dusai Resort & Spa,3,1,2
+8369,H9,Noorjahan Grand Hotel,1,2,2
+8579,H11,Dusai Resort & Spa,2,3,2
+2057,H13,Hotel Supreme,2,1,1
+5304,H7,Hotel Star Pacific,1,1,2
+6976,H13,Hotel Supreme,3,2,1
+3363,H10,Hilltown Hotel,1,2,2
+2638,H9,Noorjahan Grand Hotel,2,2,2
+1486,H8,Richmond Hotel & Suites,1,2,1
+3893,H6,Platinum Grand Hotel,1,2,1
+1943,H14,Kaikobad Hotel International,3,1,3
+2560,H11,Dusai Resort & Spa,1,3,2
+5044,H3,Grand Sultan Tea Resort & Golf,3,1,2
+3767,H12,Hotel Holy Gate,3,2,3
+3023,H4,Nirvana Inn,3,1,1
+8553,H10,Hilltown Hotel,1,3,3
+4010,H2,Nazimgarh Resorts,1,3,3
+1254,H10,Hilltown Hotel,3,1,2
+6718,H1,Rose View Hotel,1,2,1
+7751,H4,Nirvana Inn,1,3,3
+1147,H9,Noorjahan Grand Hotel,2,1,2
+2434,H7,Hotel Star Pacific,1,1,2
+3618,H14,Kaikobad Hotel International,1,2,3
+1598,H14,Kaikobad Hotel International,1,2,3
+2335,H15,Britannia Hotel,3,3,1
+6172,H15,Britannia Hotel,3,1,3
+9198,H4,Nirvana Inn,1,1,1
+6381,H11,Dusai Resort & Spa,1,1,1
+7123,H14,Kaikobad Hotel International,1,1,2
+4968,H13,Hotel Supreme,2,2,2
+9635,H10,Hilltown Hotel,1,3,3
+8297,H2,Nazimgarh Resorts,1,3,3
+5216,H2,Nazimgarh Resorts,3,1,2
+1369,H10,Hilltown Hotel,1,3,1
+6981,H10,Hilltown Hotel,1,1,1
+4207,H13,Hotel Supreme,1,1,1
+3699,H11,Dusai Resort & Spa,1,2,2
+6731,H11,Dusai Resort & Spa,3,3,2
+7822,H13,Hotel Supreme,1,3,3
+9549,H7,Hotel Star Pacific,2,3,2
+7660,H13,Hotel Supreme,1,2,2
+6361,H2,Nazimgarh Resorts,2,2,3
+2004,H8,Richmond Hotel & Suites,1,2,2
+6397,H13,Hotel Supreme,1,1,2
+6408,H15,Britannia Hotel,2,3,3
+5991,H2,Nazimgarh Resorts,1,2,2
+8818,H2,Nazimgarh Resorts,1,2,1
+3991,H7,Hotel Star Pacific,1,2,2
+8550,H13,Hotel Supreme,1,2,2
+5993,H4,Nirvana Inn,1,3,1
+2365,H3,Grand Sultan Tea Resort & Golf,3,2,2
+1027,H15,Britannia Hotel,2,3,1
+6967,H5,La Vista Hotel,3,3,1
+5226,H3,Grand Sultan Tea Resort & Golf,2,2,3
+6198,H14,Kaikobad Hotel International,2,1,1
+6709,H1,Rose View Hotel,3,2,2
+9536,H12,Hotel Holy Gate,1,2,2
+2604,H7,Hotel Star Pacific,2,3,1
+6830,H13,Hotel Supreme,2,1,3
+2831,H7,Hotel Star Pacific,2,2,3
+4276,H4,Nirvana Inn,1,2,3
+4632,H13,Hotel Supreme,3,3,2
+5542,H13,Hotel Supreme,1,1,1
+5899,H4,Nirvana Inn,2,1,3
+6685,H6,Platinum Grand Hotel,2,2,2
+1254,H5,La Vista Hotel,2,3,1
+3482,H3,Grand Sultan Tea Resort & Golf,3,2,2
+9495,H4,Nirvana Inn,2,1,3
+1057,H9,Noorjahan Grand Hotel,1,2,2
+8410,H9,Noorjahan Grand Hotel,2,2,1
+6778,H9,Noorjahan Grand Hotel,2,3,2
+5738,H8,Richmond Hotel & Suites,2,3,1
+8058,H12,Hotel Holy Gate,1,1,2
+4564,H5,La Vista Hotel,1,1,1
+8315,H13,Hotel Supreme,3,1,2
+3263,H2,Nazimgarh Resorts,1,1,1
+5410,H15,Britannia Hotel,1,3,2
+7459,H10,Hilltown Hotel,3,1,1
+6981,H13,Hotel Supreme,2,1,1
+8093,H5,La Vista Hotel,1,3,3
+7180,H3,Grand Sultan Tea Resort & Golf,1,2,3
+4708,H7,Hotel Star Pacific,3,1,2
+9782,H9,Noorjahan Grand Hotel,1,1,2
+5443,H2,Nazimgarh Resorts,2,1,3
+5365,H8,Richmond Hotel & Suites,1,3,1
+2953,H9,Noorjahan Grand Hotel,3,3,1
+7172,H1,Rose View Hotel,2,1,2
+8961,H14,Kaikobad Hotel International,3,1,3
+5676,H1,Rose View Hotel,3,3,3
+2582,H8,Richmond Hotel & Suites,1,1,1
+8709,H3,Grand Sultan Tea Resort & Golf,3,2,3
+3578,H12,Hotel Holy Gate,3,2,2
+4492,H6,Platinum Grand Hotel,3,3,1
+3170,H1,Rose View Hotel,2,1,2
+2131,H14,Kaikobad Hotel International,3,1,1
+8703,H15,Britannia Hotel,2,2,1
+4964,H10,Hilltown Hotel,1,3,3
+7380,H13,Hotel Supreme,1,1,2
+6920,H6,Platinum Grand Hotel,3,1,2
+1437,H13,Hotel Supreme,3,3,3
+7671,H12,Hotel Holy Gate,1,3,3
+3665,H4,Nirvana Inn,1,3,1
+9745,H5,La Vista Hotel,1,3,1
+2792,H10,Hilltown Hotel,3,2,1
+6316,H6,Platinum Grand Hotel,3,3,2
+2792,H8,Richmond Hotel & Suites,3,2,1
+9996,H10,Hilltown Hotel,3,1,3
+2215,H14,Kaikobad Hotel International,1,2,2
+3449,H10,Hilltown Hotel,2,3,3
+1801,H12,Hotel Holy Gate,1,1,2
+7565,H4,Nirvana Inn,2,2,2
+3824,H2,Nazimgarh Resorts,1,1,1
+4806,H15,Britannia Hotel,2,3,2
+9500,H15,Britannia Hotel,1,2,3
+7799,H6,Platinum Grand Hotel,3,2,1
+8981,H4,Nirvana Inn,2,3,1
+6629,H14,Kaikobad Hotel International,1,1,3
+9842,H2,Nazimgarh Resorts,3,2,1
+5251,H6,Platinum Grand Hotel,3,2,3
+6640,H12,Hotel Holy Gate,2,3,2
+7607,H8,Richmond Hotel & Suites,2,2,2
+2186,H1,Rose View Hotel,2,3,3
+9698,H10,Hilltown Hotel,3,3,2
+5630,H15,Britannia Hotel,2,1,2
+8448,H15,Britannia Hotel,2,3,2
+5685,H3,Grand Sultan Tea Resort & Golf,2,1,3
+2293,H11,Dusai Resort & Spa,2,2,1
+5930,H8,Richmond Hotel & Suites,1,1,3
+1613,H2,Nazimgarh Resorts,3,1,1
+4864,H15,Britannia Hotel,1,1,1
+5130,H8,Richmond Hotel & Suites,1,1,3
+5009,H6,Platinum Grand Hotel,3,2,3
+4083,H6,Platinum Grand Hotel,2,1,1
+6460,H3,Grand Sultan Tea Resort & Golf,1,2,3
+7540,H14,Kaikobad Hotel International,1,1,3
+7550,H10,Hilltown Hotel,3,1,2
+2778,H15,Britannia Hotel,1,1,1
+2390,H6,Platinum Grand Hotel,1,3,3
+1365,H6,Platinum Grand Hotel,3,1,2
+7778,H3,Grand Sultan Tea Resort & Golf,3,2,3
+6123,H6,Platinum Grand Hotel,3,3,3
+1512,H8,Richmond Hotel & Suites,1,1,2
+5619,H12,Hotel Holy Gate,3,1,2
+9568,H11,Dusai Resort & Spa,1,3,3
+4657,H1,Rose View Hotel,2,3,3
+5625,H7,Hotel Star Pacific,3,2,1
+7607,H7,Hotel Star Pacific,2,3,2
+7879,H15,Britannia Hotel,3,2,2
+8689,H2,Nazimgarh Resorts,2,3,2
+5131,H2,Nazimgarh Resorts,3,2,3
+4148,H2,Nazimgarh Resorts,3,2,2
+1130,H10,Hilltown Hotel,1,2,1
+3452,H10,Hilltown Hotel,2,3,3
+8111,H12,Hotel Holy Gate,1,1,1
+9765,H4,Nirvana Inn,2,3,2
+2885,H13,Hotel Supreme,2,1,1
+3274,H2,Nazimgarh Resorts,3,1,3
+3570,H2,Nazimgarh Resorts,2,3,2
+1295,H3,Grand Sultan Tea Resort & Golf,1,1,2
+3943,H4,Nirvana Inn,2,1,2
+1995,H9,Noorjahan Grand Hotel,3,2,1
+4623,H1,Rose View Hotel,2,3,2
+6211,H5,La Vista Hotel,2,1,2
+1862,H1,Rose View Hotel,3,2,3
+4890,H7,Hotel Star Pacific,1,2,2
+8606,H13,Hotel Supreme,2,2,3
+7291,H10,Hilltown Hotel,1,1,1
+6241,H2,Nazimgarh Resorts,1,1,1
+3540,H13,Hotel Supreme,2,3,1
+2773,H3,Grand Sultan Tea Resort & Golf,1,2,3
+7455,H13,Hotel Supreme,2,2,1
+6423,H11,Dusai Resort & Spa,1,3,2
+7978,H14,Kaikobad Hotel International,3,1,3
+8235,H9,Noorjahan Grand Hotel,3,3,3
+9628,H3,Grand Sultan Tea Resort & Golf,2,3,3
+8756,H9,Noorjahan Grand Hotel,3,3,3
+3223,H15,Britannia Hotel,1,1,1
+9410,H1,Rose View Hotel,2,3,1
+4740,H12,Hotel Holy Gate,3,1,2
+7409,H13,Hotel Supreme,2,3,3
+4354,H2,Nazimgarh Resorts,3,2,3
+7496,H6,Platinum Grand Hotel,3,3,3
+9589,H6,Platinum Grand Hotel,1,1,2
+6614,H11,Dusai Resort & Spa,1,1,2
+1875,H10,Hilltown Hotel,3,3,1
+3302,H6,Platinum Grand Hotel,2,2,1
+9373,H12,Hotel Holy Gate,1,1,1
+1323,H9,Noorjahan Grand Hotel,3,2,1
+1972,H10,Hilltown Hotel,2,2,3
+3113,H7,Hotel Star Pacific,2,3,3
+3290,H1,Rose View Hotel,2,3,1
+8248,H5,La Vista Hotel,3,3,2
+8366,H9,Noorjahan Grand Hotel,3,3,2
+4121,H11,Dusai Resort & Spa,1,3,2
+1666,H14,Kaikobad Hotel International,2,1,2
+4034,H8,Richmond Hotel & Suites,2,2,2
+7146,H11,Dusai Resort & Spa,2,2,3
+5588,H4,Nirvana Inn,2,3,2
+9647,H10,Hilltown Hotel,1,2,2
+1653,H1,Rose View Hotel,2,3,1
+9715,H8,Richmond Hotel & Suites,1,1,1
+5316,H11,Dusai Resort & Spa,3,1,1
+8001,H10,Hilltown Hotel,2,1,3
+1982,H11,Dusai Resort & Spa,2,2,1
+7777,H12,Hotel Holy Gate,1,1,1
+8214,H9,Noorjahan Grand Hotel,1,3,2
+9220,H8,Richmond Hotel & Suites,1,3,3
+1514,H9,Noorjahan Grand Hotel,2,1,3
+2252,H13,Hotel Supreme,1,2,2
+1761,H5,La Vista Hotel,3,3,1
+9884,H7,Hotel Star Pacific,2,3,2
+3578,H1,Rose View Hotel,1,2,3
+4412,H11,Dusai Resort & Spa,3,3,3
+3309,H10,Hilltown Hotel,1,2,2
+6429,H6,Platinum Grand Hotel,3,1,3
+5425,H5,La Vista Hotel,3,2,2
+3074,H11,Dusai Resort & Spa,2,2,2
+7746,H9,Noorjahan Grand Hotel,1,1,1
+2119,H8,Richmond Hotel & Suites,3,3,1
+1698,H11,Dusai Resort & Spa,1,2,2
+7901,H6,Platinum Grand Hotel,2,3,3
+8664,H4,Nirvana Inn,3,2,2
+9173,H14,Kaikobad Hotel International,2,3,3
+6574,H6,Platinum Grand Hotel,2,1,2
+2156,H15,Britannia Hotel,1,2,1
+3766,H14,Kaikobad Hotel International,2,2,3
+1320,H2,Nazimgarh Resorts,3,3,2
+9047,H6,Platinum Grand Hotel,3,2,1
+3147,H2,Nazimgarh Resorts,3,2,3
+8596,H1,Rose View Hotel,3,2,2
+8269,H6,Platinum Grand Hotel,2,2,1
+4562,H3,Grand Sultan Tea Resort & Golf,1,3,1
+4900,H11,Dusai Resort & Spa,1,2,3
+9081,H3,Grand Sultan Tea Resort & Golf,1,1,1
+6714,H6,Platinum Grand Hotel,1,1,2
+1958,H7,Hotel Star Pacific,3,1,1
+3091,H13,Hotel Supreme,2,3,3
+8138,H4,Nirvana Inn,3,3,2
+7825,H8,Richmond Hotel & Suites,2,1,1
+8121,H13,Hotel Supreme,2,2,1
+6748,H1,Rose View Hotel,2,3,1
+7631,H4,Nirvana Inn,2,2,2
+1103,H14,Kaikobad Hotel International,2,1,2
+4141,H1,Rose View Hotel,3,2,2
+2135,H11,Dusai Resort & Spa,3,1,1
+4194,H14,Kaikobad Hotel International,1,1,2
+7963,H8,Richmond Hotel & Suites,3,2,2
+2807,H8,Richmond Hotel & Suites,1,2,2
+9308,H4,Nirvana Inn,1,2,2
+9725,H9,Noorjahan Grand Hotel,1,3,2
+6170,H10,Hilltown Hotel,3,2,1
+8332,H4,Nirvana Inn,2,2,3
+5940,H14,Kaikobad Hotel International,1,1,1
+5613,H6,Platinum Grand Hotel,3,1,2
+6110,H3,Grand Sultan Tea Resort & Golf,3,2,3
+4870,H4,Nirvana Inn,2,3,3
+2358,H7,Hotel Star Pacific,1,2,2
+5718,H6,Platinum Grand Hotel,3,1,2
+7399,H4,Nirvana Inn,1,1,2
+7271,H11,Dusai Resort & Spa,2,2,3
+3691,H4,Nirvana Inn,2,2,3
+6538,H3,Grand Sultan Tea Resort & Golf,1,2,3
+9704,H2,Nazimgarh Resorts,2,3,1
+2373,H2,Nazimgarh Resorts,3,2,1
+6097,H7,Hotel Star Pacific,2,1,3
+1980,H6,Platinum Grand Hotel,1,1,3
+2746,H7,Hotel Star Pacific,1,1,1
+9734,H9,Noorjahan Grand Hotel,2,3,3
+7999,H15,Britannia Hotel,2,2,3
+2663,H10,Hilltown Hotel,3,1,1
+6668,H10,Hilltown Hotel,2,1,3
+1074,H3,Grand Sultan Tea Resort & Golf,3,1,3
+4926,H14,Kaikobad Hotel International,1,2,3
+3305,H15,Britannia Hotel,3,1,2
+2818,H9,Noorjahan Grand Hotel,2,1,3
+5724,H15,Britannia Hotel,1,3,2
+3568,H1,Rose View Hotel,2,2,1
+6450,H12,Hotel Holy Gate,3,2,3
+7531,H14,Kaikobad Hotel International,2,3,1
+3477,H4,Nirvana Inn,3,2,2
+2573,H6,Platinum Grand Hotel,1,1,2
+4736,H7,Hotel Star Pacific,3,1,1
+1109,H3,Grand Sultan Tea Resort & Golf,3,3,3
+7397,H10,Hilltown Hotel,1,2,3
+8978,H1,Rose View Hotel,3,1,1
+5504,H10,Hilltown Hotel,2,1,3
+2934,H3,Grand Sultan Tea Resort & Golf,2,1,3
+3374,H10,Hilltown Hotel,3,3,3
+3273,H12,Hotel Holy Gate,1,2,2
+7666,H1,Rose View Hotel,3,1,2
+3367,H14,Kaikobad Hotel International,1,1,2
+4413,H1,Rose View Hotel,3,1,1
+1140,H12,Hotel Holy Gate,1,2,1
+5842,H1,Rose View Hotel,1,3,1
+8173,H12,Hotel Holy Gate,1,2,3
+3208,H7,Hotel Star Pacific,1,2,1
+5684,H12,Hotel Holy Gate,3,3,3
+2857,H13,Hotel Supreme,1,1,2
+6838,H11,Dusai Resort & Spa,2,3,3
+1222,H2,Nazimgarh Resorts,3,3,3
+9825,H2,Nazimgarh Resorts,1,2,1
+2524,H3,Grand Sultan Tea Resort & Golf,1,2,3
+2925,H11,Dusai Resort & Spa,1,1,3
+4955,H10,Hilltown Hotel,2,2,2
+3086,H10,Hilltown Hotel,1,1,1
+1428,H1,Rose View Hotel,3,3,2
+7950,H1,Rose View Hotel,2,2,1
+4142,H11,Dusai Resort & Spa,2,2,2
+2691,H13,Hotel Supreme,3,3,3
+5068,H14,Kaikobad Hotel International,2,3,3
+2209,H14,Kaikobad Hotel International,3,1,3
+3577,H11,Dusai Resort & Spa,3,3,1
+2346,H13,Hotel Supreme,3,2,2
+4719,H8,Richmond Hotel & Suites,2,3,1
+5342,H15,Britannia Hotel,3,2,1
+5408,H6,Platinum Grand Hotel,2,1,2
+8421,H2,Nazimgarh Resorts,3,3,2
+4496,H3,Grand Sultan Tea Resort & Golf,3,3,1
+2369,H1,Rose View Hotel,2,2,2
+5824,H12,Hotel Holy Gate,1,3,3
+1041,H15,Britannia Hotel,3,1,2
+5625,H5,La Vista Hotel,2,1,3
+2675,H4,Nirvana Inn,3,2,1
+6723,H3,Grand Sultan Tea Resort & Golf,1,2,1
+4698,H6,Platinum Grand Hotel,3,1,1
+1442,H7,Hotel Star Pacific,3,2,2
+3632,H3,Grand Sultan Tea Resort & Golf,2,3,1
+4155,H3,Grand Sultan Tea Resort & Golf,1,1,1
+4884,H3,Grand Sultan Tea Resort & Golf,2,1,1
+4694,H3,Grand Sultan Tea Resort & Golf,2,2,3
+1833,H15,Britannia Hotel,2,2,3
+7760,H7,Hotel Star Pacific,1,2,2
+8383,H9,Noorjahan Grand Hotel,2,1,3
+5052,H13,Hotel Supreme,2,3,3
+5094,H6,Platinum Grand Hotel,2,3,1
+1799,H10,Hilltown Hotel,3,1,3
+1852,H5,La Vista Hotel,2,2,1
+2214,H3,Grand Sultan Tea Resort & Golf,1,3,1
+5815,H12,Hotel Holy Gate,3,2,3
+5203,H9,Noorjahan Grand Hotel,2,3,1
+8301,H8,Richmond Hotel & Suites,3,1,3
+3608,H1,Rose View Hotel,3,3,1
+3562,H13,Hotel Supreme,1,3,3
+4284,H4,Nirvana Inn,3,3,2
+5728,H10,Hilltown Hotel,3,3,1
+8357,H1,Rose View Hotel,1,2,2
+5425,H7,Hotel Star Pacific,2,1,2
+6189,H8,Richmond Hotel & Suites,2,3,2
+7294,H13,Hotel Supreme,1,2,2
+4581,H11,Dusai Resort & Spa,1,1,3
+1362,H8,Richmond Hotel & Suites,3,1,1
+2250,H13,Hotel Supreme,3,2,3
+9188,H11,Dusai Resort & Spa,2,1,2
+1439,H14,Kaikobad Hotel International,2,3,3
+1646,H13,Hotel Supreme,1,1,3
+7052,H15,Britannia Hotel,1,1,1
+5507,H13,Hotel Supreme,3,3,1
+3077,H2,Nazimgarh Resorts,3,1,3
+9447,H3,Grand Sultan Tea Resort & Golf,3,2,3
+2810,H2,Nazimgarh Resorts,3,1,2
+2209,H10,Hilltown Hotel,2,1,2
+6280,H9,Noorjahan Grand Hotel,2,3,3
+1904,H2,Nazimgarh Resorts,1,3,3
+7930,H5,La Vista Hotel,1,3,2
+2355,H3,Grand Sultan Tea Resort & Golf,3,2,2
+3636,H2,Nazimgarh Resorts,1,3,1
+5395,H6,Platinum Grand Hotel,2,3,3
+1474,H13,Hotel Supreme,1,2,2
+8781,H1,Rose View Hotel,2,1,3
+9194,H1,Rose View Hotel,3,3,2
+9650,H3,Grand Sultan Tea Resort & Golf,1,2,1
+5119,H15,Britannia Hotel,2,1,1
+2701,H12,Hotel Holy Gate,3,3,3
+5083,H9,Noorjahan Grand Hotel,3,3,1
+5738,H9,Noorjahan Grand Hotel,2,1,1
+6541,H7,Hotel Star Pacific,1,2,1
+4437,H5,La Vista Hotel,3,3,1
+1300,H10,Hilltown Hotel,3,1,3
+5268,H12,Hotel Holy Gate,1,2,2
+1819,H3,Grand Sultan Tea Resort & Golf,2,3,1
+3230,H4,Nirvana Inn,1,2,1
+4318,H13,Hotel Supreme,2,2,2
+5986,H6,Platinum Grand Hotel,3,2,1
+9386,H10,Hilltown Hotel,3,3,2
+3634,H14,Kaikobad Hotel International,3,3,1
+9782,H6,Platinum Grand Hotel,1,1,1
+5614,H12,Hotel Holy Gate,1,2,3
+1096,H3,Grand Sultan Tea Resort & Golf,2,3,1
+2302,H6,Platinum Grand Hotel,2,2,1
+5044,H7,Hotel Star Pacific,2,2,1
+4512,H6,Platinum Grand Hotel,2,1,1
+3609,H5,La Vista Hotel,2,1,2
+8598,H9,Noorjahan Grand Hotel,3,2,3
+7485,H4,Nirvana Inn,2,2,1
+2849,H6,Platinum Grand Hotel,3,2,3
+1451,H15,Britannia Hotel,3,2,2
+4724,H4,Nirvana Inn,1,3,3
+7094,H1,Rose View Hotel,2,3,2
+2504,H5,La Vista Hotel,3,1,3
+8837,H2,Nazimgarh Resorts,2,3,1
+7826,H12,Hotel Holy Gate,1,2,3
+9318,H13,Hotel Supreme,1,2,2
+5479,H5,La Vista Hotel,3,3,1
+8234,H2,Nazimgarh Resorts,3,1,3
+2396,H4,Nirvana Inn,3,3,2
+2110,H6,Platinum Grand Hotel,2,1,2
+2254,H10,Hilltown Hotel,3,2,3
+5930,H4,Nirvana Inn,3,3,3
+3235,H2,Nazimgarh Resorts,1,3,2
+9548,H7,Hotel Star Pacific,1,3,3
+3945,H8,Richmond Hotel & Suites,1,3,3
+9957,H6,Platinum Grand Hotel,3,3,2
+5665,H7,Hotel Star Pacific,2,3,1
+7718,H15,Britannia Hotel,2,3,1
+7959,H13,Hotel Supreme,1,1,1
+7374,H15,Britannia Hotel,1,3,3
+2900,H7,Hotel Star Pacific,3,3,1
+1764,H15,Britannia Hotel,2,3,1
+4133,H6,Platinum Grand Hotel,3,3,1
+2729,H5,La Vista Hotel,2,2,2
+2882,H1,Rose View Hotel,1,3,1
+1241,H12,Hotel Holy Gate,1,1,2
+9530,H10,Hilltown Hotel,3,2,3
+2451,H8,Richmond Hotel & Suites,3,2,2
+7131,H6,Platinum Grand Hotel,2,1,2
+5184,H9,Noorjahan Grand Hotel,2,2,2
+1412,H3,Grand Sultan Tea Resort & Golf,2,3,3
+1689,H2,Nazimgarh Resorts,2,1,2
+8986,H8,Richmond Hotel & Suites,1,3,1
+1130,H9,Noorjahan Grand Hotel,3,3,2
+1803,H6,Platinum Grand Hotel,2,1,1
+8773,H15,Britannia Hotel,3,3,3
+8224,H7,Hotel Star Pacific,2,3,3
+8263,H10,Hilltown Hotel,2,2,3
+9392,H4,Nirvana Inn,3,2,2
+5436,H11,Dusai Resort & Spa,3,3,1
+9372,H2,Nazimgarh Resorts,1,3,3
+8547,H7,Hotel Star Pacific,2,3,3
+6753,H4,Nirvana Inn,2,3,1
+7454,H8,Richmond Hotel & Suites,3,3,1
+2205,H3,Grand Sultan Tea Resort & Golf,3,1,1
+6283,H9,Noorjahan Grand Hotel,1,3,3
+2736,H13,Hotel Supreme,3,1,3
+1011,H14,Kaikobad Hotel International,1,3,2
+3095,H4,Nirvana Inn,2,2,1
+9130,H10,Hilltown Hotel,1,1,2
+3219,H1,Rose View Hotel,2,2,3
+6190,H11,Dusai Resort & Spa,1,1,1
+5783,H12,Hotel Holy Gate,2,1,1
+4388,H6,Platinum Grand Hotel,2,3,3
+2925,H15,Britannia Hotel,1,2,3
+7895,H2,Nazimgarh Resorts,2,3,3
+8927,H2,Nazimgarh Resorts,1,3,1
+9303,H12,Hotel Holy Gate,2,1,3
+1547,H10,Hilltown Hotel,3,2,2
+5902,H3,Grand Sultan Tea Resort & Golf,2,1,3
+2069,H9,Noorjahan Grand Hotel,3,2,2
+3365,H9,Noorjahan Grand Hotel,2,3,1
+5404,H10,Hilltown Hotel,1,2,1
+9375,H6,Platinum Grand Hotel,2,2,3
+7289,H10,Hilltown Hotel,2,2,1
+8965,H13,Hotel Supreme,2,3,1
+1914,H7,Hotel Star Pacific,2,2,1
+2507,H8,Richmond Hotel & Suites,1,3,2
+2893,H3,Grand Sultan Tea Resort & Golf,3,1,1
+3466,H1,Rose View Hotel,2,2,1
+9705,H10,Hilltown Hotel,3,1,2
+9095,H4,Nirvana Inn,1,2,1
+1308,H9,Noorjahan Grand Hotel,2,3,3
+5577,H2,Nazimgarh Resorts,3,1,2
+6792,H1,Rose View Hotel,3,1,1
+1212,H7,Hotel Star Pacific,2,3,3
+6356,H10,Hilltown Hotel,3,1,1
+4220,H15,Britannia Hotel,3,3,2
+4692,H13,Hotel Supreme,2,1,3
+2906,H6,Platinum Grand Hotel,3,3,3
+6677,H4,Nirvana Inn,3,2,1
+1511,H13,Hotel Supreme,2,1,1
+1112,H1,Rose View Hotel,2,1,1
+7028,H15,Britannia Hotel,3,3,1
+6462,H5,La Vista Hotel,1,3,1
+4733,H5,La Vista Hotel,3,3,1
+3763,H2,Nazimgarh Resorts,2,2,2
+8346,H13,Hotel Supreme,3,1,2
+1117,H6,Platinum Grand Hotel,1,2,3
+7037,H15,Britannia Hotel,2,2,1
+3335,H4,Nirvana Inn,2,3,2
+9845,H11,Dusai Resort & Spa,1,2,2
+9051,H1,Rose View Hotel,1,1,1
+9320,H9,Noorjahan Grand Hotel,2,3,2
+4564,H12,Hotel Holy Gate,2,2,3
+9306,H14,Kaikobad Hotel International,3,1,2
+9523,H1,Rose View Hotel,2,3,2
+1004,H15,Britannia Hotel,3,1,3
+9442,H1,Rose View Hotel,2,3,2
+9364,H8,Richmond Hotel & Suites,3,3,1
+8725,H11,Dusai Resort & Spa,1,2,2
+9775,H1,Rose View Hotel,1,1,3
+4371,H3,Grand Sultan Tea Resort & Golf,1,2,1
+8558,H14,Kaikobad Hotel International,1,2,1
+9785,H6,Platinum Grand Hotel,3,3,2
+5055,H1,Rose View Hotel,1,3,1
+6545,H14,Kaikobad Hotel International,3,1,2
+4477,H10,Hilltown Hotel,2,2,1
+9634,H9,Noorjahan Grand Hotel,1,1,2
+5828,H1,Rose View Hotel,1,2,1
+7287,H3,Grand Sultan Tea Resort & Golf,3,3,2
+5594,H1,Rose View Hotel,1,2,3
+5580,H5,La Vista Hotel,3,1,2
+6669,H6,Platinum Grand Hotel,3,2,3
+1143,H14,Kaikobad Hotel International,1,1,2
+2152,H8,Richmond Hotel & Suites,3,3,1
+7257,H4,Nirvana Inn,2,2,3
+1755,H4,Nirvana Inn,1,1,2
+2234,H6,Platinum Grand Hotel,2,3,3
+4806,H7,Hotel Star Pacific,3,3,3
+7331,H15,Britannia Hotel,3,2,3
+5681,H10,Hilltown Hotel,1,3,2
+5097,H15,Britannia Hotel,3,2,1
+5613,H11,Dusai Resort & Spa,1,1,1
+9092,H12,Hotel Holy Gate,1,2,2
+8580,H13,Hotel Supreme,1,2,2
+1974,H3,Grand Sultan Tea Resort & Golf,2,1,2
+9001,H12,Hotel Holy Gate,1,2,3
+3937,H13,Hotel Supreme,1,2,2
+4443,H3,Grand Sultan Tea Resort & Golf,3,3,1
+2317,H2,Nazimgarh Resorts,3,1,3
+2265,H8,Richmond Hotel & Suites,1,2,2
+4788,H6,Platinum Grand Hotel,2,1,3
+9577,H6,Platinum Grand Hotel,1,2,1
+5916,H5,La Vista Hotel,3,1,2
+6935,H3,Grand Sultan Tea Resort & Golf,3,1,2
+2790,H11,Dusai Resort & Spa,2,1,2
+1538,H1,Rose View Hotel,1,3,3
+4251,H15,Britannia Hotel,1,3,3
+2405,H10,Hilltown Hotel,2,3,2
+1761,H4,Nirvana Inn,3,1,3
+2985,H14,Kaikobad Hotel International,1,2,2
+8961,H9,Noorjahan Grand Hotel,3,2,1
+9379,H3,Grand Sultan Tea Resort & Golf,2,3,1
+3531,H12,Hotel Holy Gate,1,2,1
+1764,H12,Hotel Holy Gate,2,2,2
+2083,H14,Kaikobad Hotel International,3,1,3
+5882,H14,Kaikobad Hotel International,2,3,3
+2684,H14,Kaikobad Hotel International,3,1,3
+1695,H7,Hotel Star Pacific,3,3,1
+9196,H12,Hotel Holy Gate,3,2,1
+4173,H13,Hotel Supreme,3,3,1
+8334,H8,Richmond Hotel & Suites,3,1,1
+4854,H6,Platinum Grand Hotel,3,2,1
+8786,H9,Noorjahan Grand Hotel,1,3,3
+1664,H1,Rose View Hotel,2,1,2
+9328,H9,Noorjahan Grand Hotel,1,1,1
+8358,H14,Kaikobad Hotel International,3,1,1
+8843,H7,Hotel Star Pacific,1,2,1
+6068,H15,Britannia Hotel,2,1,3
+1721,H10,Hilltown Hotel,2,2,1
+7015,H11,Dusai Resort & Spa,1,1,1
+7721,H10,Hilltown Hotel,1,2,2
+6117,H10,Hilltown Hotel,3,1,1
+4806,H13,Hotel Supreme,3,3,3
+1831,H14,Kaikobad Hotel International,2,3,1
+6671,H3,Grand Sultan Tea Resort & Golf,2,1,2
+8614,H2,Nazimgarh Resorts,1,1,3
+4694,H2,Nazimgarh Resorts,3,1,3
+3485,H11,Dusai Resort & Spa,2,2,3
+7646,H5,La Vista Hotel,3,3,1
+1272,H2,Nazimgarh Resorts,3,1,3
+3020,H14,Kaikobad Hotel International,2,1,1
+8019,H15,Britannia Hotel,2,3,2
+2009,H4,Nirvana Inn,1,3,3
+8732,H4,Nirvana Inn,3,1,2
+5710,H10,Hilltown Hotel,2,3,3
+5126,H7,Hotel Star Pacific,3,1,1
+7547,H5,La Vista Hotel,1,1,1
+7126,H5,La Vista Hotel,1,1,2
+9269,H7,Hotel Star Pacific,1,2,2
+7637,H3,Grand Sultan Tea Resort & Golf,3,3,1
+9790,H12,Hotel Holy Gate,2,1,3
+2293,H12,Hotel Holy Gate,2,2,1
+3578,H10,Hilltown Hotel,1,1,1
+2519,H12,Hotel Holy Gate,2,3,3
+3274,H5,La Vista Hotel,3,3,1
+6336,H13,Hotel Supreme,2,3,2
+8028,H9,Noorjahan Grand Hotel,2,1,3
+8674,H8,Richmond Hotel & Suites,1,3,1
+7038,H10,Hilltown Hotel,1,1,3
+2638,H5,La Vista Hotel,3,2,1
+1670,H4,Nirvana Inn,1,2,1
+5168,H6,Platinum Grand Hotel,1,2,3
+8372,H10,Hilltown Hotel,1,3,2
+9869,H13,Hotel Supreme,2,3,2
+1654,H15,Britannia Hotel,3,2,2
+8626,H11,Dusai Resort & Spa,2,2,1
+5300,H4,Nirvana Inn,3,3,3
+9010,H8,Richmond Hotel & Suites,3,3,3
+2433,H2,Nazimgarh Resorts,3,3,1
+9090,H9,Noorjahan Grand Hotel,2,3,2
+9600,H7,Hotel Star Pacific,1,1,3
+1697,H6,Platinum Grand Hotel,3,2,3
+9093,H5,La Vista Hotel,1,3,3
+7060,H1,Rose View Hotel,2,3,1
+7475,H8,Richmond Hotel & Suites,1,2,3
+7901,H13,Hotel Supreme,1,1,2
+4656,H4,Nirvana Inn,1,3,1
+4659,H2,Nazimgarh Resorts,3,3,3
+9896,H2,Nazimgarh Resorts,1,1,3
+3170,H11,Dusai Resort & Spa,1,1,3
+3226,H4,Nirvana Inn,2,1,1
+3998,H11,Dusai Resort & Spa,2,1,1
+8116,H3,Grand Sultan Tea Resort & Golf,2,2,3
+7828,H9,Noorjahan Grand Hotel,1,2,3
+9612,H12,Hotel Holy Gate,1,1,1
+9620,H1,Rose View Hotel,1,3,2
+9156,H2,Nazimgarh Resorts,3,1,2
+8665,H14,Kaikobad Hotel International,3,1,2
+9237,H4,Nirvana Inn,3,3,3
+3160,H2,Nazimgarh Resorts,2,1,3
+3952,H8,Richmond Hotel & Suites,3,2,3
+9679,H10,Hilltown Hotel,1,3,2
+8154,H5,La Vista Hotel,1,2,2
+8489,H15,Britannia Hotel,2,2,2
+7504,H15,Britannia Hotel,1,1,2
+1985,H9,Noorjahan Grand Hotel,2,3,1
+5018,H4,Nirvana Inn,3,1,3
+7165,H15,Britannia Hotel,2,3,3
+5361,H2,Nazimgarh Resorts,1,2,2
+9678,H11,Dusai Resort & Spa,2,1,3
+5805,H5,La Vista Hotel,1,2,3
+6930,H4,Nirvana Inn,3,2,2
+1114,H4,Nirvana Inn,3,2,3
+2198,H10,Hilltown Hotel,1,2,3
+1931,H15,Britannia Hotel,1,2,2
+7865,H9,Noorjahan Grand Hotel,3,3,3
+1273,H3,Grand Sultan Tea Resort & Golf,2,3,1
+3989,H7,Hotel Star Pacific,1,1,2
+4343,H6,Platinum Grand Hotel,1,3,2
+8994,H5,La Vista Hotel,3,2,3
+4850,H6,Platinum Grand Hotel,2,3,3
+6984,H12,Hotel Holy Gate,3,2,1
+2204,H4,Nirvana Inn,1,2,1
+2223,H4,Nirvana Inn,2,3,3
